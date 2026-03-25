@@ -1,0 +1,2 @@
+# quiz-zkratky
+testíček

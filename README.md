@@ -1,7 +1,6 @@
 # quiz-zkratky
 testíček
-[index.html](https://github.com/user-attachments/files/26250620/index.html)
-<!DOCTYPE html>
+
 <html lang="cs">
 <head>
 <meta charset="UTF-8">

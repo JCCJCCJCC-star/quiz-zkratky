@@ -1,6 +1,8 @@
 # quiz-zkratky
 testíček
 
+
+[index.html](https://github.com/user-attachments/files/26251958/index.html)<!DOCTYPE html>
 <html lang="cs">
 <head>
 <meta charset="UTF-8">
@@ -132,6 +134,9 @@ function endQuiz(){
   document.getElementById("resultEmoji").innerText = emoji;
 }
 </script>
+
+</body>
+</html>
 
 </body>
 </html>
